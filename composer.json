@@ -1,4 +1,6 @@
 {
+    "name": "PHP Info Page",
+    "description": "Show a PHP Info page on the admin Tools menu",
     "require": {},
     "require-dev": {
         "squizlabs/php_codesniffer": "*",
