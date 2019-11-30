@@ -9,13 +9,13 @@
       "Theme",
       "Retro"
     ],
-    "homepage": "https://github.com/GeoJunkie/php-info#readme",
+    "homepage": "https://github.com/geojunkie/php-info#readme",
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/GeoJunkie/php-info.git"
+      "url": "git+https://github.com/geojunkie/php-info.git"
     },
     "bugs": {
-      "web": "https://github.com/GeoJunkie/php-info/issues"
+      "web": "https://github.com/geojunkie/php-info/issues"
     },
     "dependencies": {},
     "devDependencies": {

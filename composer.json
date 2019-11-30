@@ -1,5 +1,5 @@
 {
-	"name": "GeoJunkie/php-info",
+	"name": "geojunkie/php-info",
 	"type": "package",
 	"description": "PHP Info Page",
 	"keywords": [
@@ -7,7 +7,7 @@
 		"Plugins",
 		"phpinfo"
 	],
-	"homepage": "https://github.com/GeoJunkie/php-info",
+	"homepage": "https://github.com/https://github.com/geojunkie/php-info/php-info",
 	"license": "GPL-2.0-or-later",
 	"authors": [
 		{
@@ -28,7 +28,7 @@
 		"lint": "@php ./vendor/bin/parallel-lint --exclude .git --exclude vendor ."
 	},
 	"support": {
-		"issues": "https://github.com/GeoJunkie/php-info/issues",
-		"source": "https://github.com/GeoJunkie/php-info"
+		"issues": "https://github.com/geojunkie/php-info/issues",
+		"source": "https://github.com/geojunkie/php-info"
 	}
 }
