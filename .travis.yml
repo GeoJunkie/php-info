@@ -1,1 +1,1 @@
-import: thingsym/wordpress-test-matrix
+import: thingsym/wordpress-test-matrix:wordpress-test-matrix.travis.yml@master
